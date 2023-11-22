@@ -1,5 +1,5 @@
 # Covid-19 India Analysis
-![image](https://github.com/Fardin-Data/Covid-19-India-Analysis/assets/137788371/38c58620-1929-443b-b652-f49aa068b4dd)
+![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUD-4d0bUWkWC_dmvvez-LscgNs54X1Kuh1IQVIrcUcmMblxqath22X6j60lQy4XoODU4&usqp=CAU)
 
 ## Introduction
 The COVID-19 pandemic has had a profound impact on public health, and understanding the data is crucial for decision-making and resource allocation. This project, assigned by our training institution "Masai" with a tight 7-day deadline, aims to provide valuable insights and create a data-driven dashboard to aid in understanding the pandemic's progression and its effects on different regions of India.
