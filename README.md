@@ -1,5 +1,5 @@
 # Covid-19 India Analysis
-![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUD-4d0bUWkWC_dmvvez-LscgNs54X1Kuh1IQVIrcUcmMblxqath22X6j60lQy4XoODU4&usqp=CAU)
+![image](https://media.defense.gov/2020/Mar/12/2002263245/-1/-1/0/200309-D-HN545-1008.JPG)
 
 ## Introduction
 The COVID-19 pandemic has had a profound impact on public health, and understanding the data is crucial for decision-making and resource allocation. This project, assigned by our training institution "Masai" with a tight 7-day deadline, aims to provide valuable insights and create a data-driven dashboard to aid in understanding the pandemic's progression and its effects on different regions of India.
@@ -211,16 +211,17 @@ Efficiently managing our time became crucial to meet project deadlines.
 
 
 ## Team Members
+- [Vishwanath J](https://github.com/Vishwanath-J-25?tab=repositories)
 - [Fardin khan](https://github.com/Fardin-Data)
 - [Sachin Yadav](https://github.com/sachinyadav22)
 - [Vanshpal Singh](https://github.com/vanshpalsingh?tab=following)
-- [Vishwanath J](https://github.com/Vishwanath-J-25?tab=repositories)
+
 
 ## License
 This project is licensed under the MIT License, allowing you to use, modify, and distribute the code and visuals while maintaining the original license terms.
 
 ---
 
-For questions or feedback, please contact: fardinkhan.data@gmail.com
+For questions or feedback, please contact: vishwanathj2525@gmail.com
 
 Enjoy exploring the project!
